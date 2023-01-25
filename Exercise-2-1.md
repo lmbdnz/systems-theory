@@ -1,3 +1,5 @@
+**Logan Brenningmeyer**
+
 **Retailer selling personal information for profit**
 
 |Ethical Quandry|Customer Database|Customer/Business Relationships|National Security|
