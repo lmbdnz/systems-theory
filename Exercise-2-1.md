@@ -1,4 +1,4 @@
-**Retailer selling personal information for profit
+*Retailer selling personal information for profit
 
 |Ethical Quandry|Customer Database|Customer/Business Relationships|National Security|
 |---------------|----------------|----------------|----------------|
